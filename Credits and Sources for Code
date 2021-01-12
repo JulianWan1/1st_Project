@@ -1,0 +1,13 @@
+Below are the links and sources that I have used to accomplish this project. 
+
+1	https://www.geeksforgeeks.org/python-how-to-copy-data-from-one-excel-sheet-to-another/
+2	https://openpyxl.readthedocs.io/en/stable/tutorial.html
+3	https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+4	https://stackoverflow.com/questions/36582460/how-to-clear-a-range-of-values-in-an-excel-workbook-using-openpyxl
+5	http://zetcode.com/python/openpyxl/
+6	https://stackoverflow.com/questions/23332259/copy-cell-style-openpyxl
+7	https://stackoverflow.com/questions/41495927/saving-excel-files-to-a-specific-path-with-unique-filenames
+8	https://stackoverflow.com/questions/15088037/python-script-to-do-something-at-the-same-time-every-day
+9	https://www.programiz.com/python-programming/datetime/current-datetime
+10	https://towardsdatascience.com/automate-your-python-scripts-with-task-scheduler-661d0a40b279
+11	https://www.kite.com/python/answers/how-to-get-the-number-of-months-between-two-dates-in-python
